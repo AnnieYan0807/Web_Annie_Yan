@@ -1,9 +1,16 @@
 ---
-title: "About"
+title: "About Me"
+about:
+  template: jolla
+  image: AnnieYan.jpeg
 ---
 
-About this site
+I am a emerging digital consultant, critical thinker and problem solver. Expert in perform data analyzation and provide consulting advice accordingly. Passionate about incorporate data in different aspect of an organization.
 
-```{r}
-1 + 1
-```
+
+## Contact
+(437)985-9550
+
+Yanzixin0807@gmail.com
+
+

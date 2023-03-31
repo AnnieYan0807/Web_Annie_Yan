@@ -1,20 +1,17 @@
 project:
-  type: website 
+  type: website
   output-dir: docs
-
+  
 website:
-  title: "Web_Annie_Yan"
+  title: "Annie Yan"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
+      - href: CV.pdf
+        text: Resume
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
-
-
-
