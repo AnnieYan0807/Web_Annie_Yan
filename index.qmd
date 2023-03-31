@@ -2,10 +2,9 @@
 title: "Web_Annie_Yan"
 ---
 
-This is a Quarto website.
+Hi, my name is Annie Yan. This is my personal website. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Personal Bio
 
-```{r}
-1 + 1
-```
+
+## CV

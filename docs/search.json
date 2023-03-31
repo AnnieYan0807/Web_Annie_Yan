@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Web_Annie_Yan",
+    "section": "",
+    "text": "Hi, my name is Annie Yan. This is my personal website."
+  },
+  {
+    "objectID": "index.html#personal-bio",
+    "href": "index.html#personal-bio",
+    "title": "Web_Annie_Yan",
+    "section": "Personal Bio",
+    "text": "Personal Bio"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Web_Annie_Yan",
+    "section": "CV",
+    "text": "CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
